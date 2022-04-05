@@ -1,0 +1,1 @@
+pytest . --VGG11_model_dir "C:/Users/chenp/Desktop/vgg1.chkpt" --CIFAR10_dataset_dir "C:/Users/chenp/Google Drive/Research/Fault-Tolerant Neural Networks/Ensemble Methods/data" --Resnet18_model_dir "C:/Users/chenp/Desktop/resnet1.chkpt"
